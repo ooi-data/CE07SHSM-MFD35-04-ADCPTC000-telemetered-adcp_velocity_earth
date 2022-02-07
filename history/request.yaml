@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE07SHSM-MFD35-04-ADCPTC000-telemetered-adcp_velocity_earth
-last_request: '2022-01-21T18:03:13.262720Z'
+last_request: '2022-02-07T19:18:58.450361Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-MFD35-04-ADCPTC000-telemetered-adcp_velocity_earth/main/history/response.json
-status: success
+status: pending
